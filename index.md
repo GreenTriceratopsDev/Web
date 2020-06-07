@@ -13,5 +13,6 @@
         <hr>
         <p>Those are the penguins!</p>
         <a href="penguin.html"><button>More penguins</button></a>
+        <a href="about.html"><button>About</button></a>
     </body>
 </html>
