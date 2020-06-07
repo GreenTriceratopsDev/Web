@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My penguin website</title>
+        <link rel="stylesheet" href="stylesheets/main.css">
+        <script src="javascripts/main.js"></script>
+    </head>
+    <body>
+        <h1 style="color:green;">PENGUINS!!!!!!!</h1>
+        <p>This website is about penguins</p>
+        <p>Here is a picture of some penguins</p>
+        <img src="penguin.jpg">
+        <hr>
+        <p>Those are the penguins!</p>
+        <a href="penguin.html"><button>More penguins</button></a>
+    </body>
+</html>
